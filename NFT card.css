@@ -1,0 +1,41 @@
+body{background-color: hsl(217, 54%, 11%) ;}
+.container {
+    border : solid black;
+    border-radius: 10px;;
+background-color:hsl(216, 50%, 16%);
+margin-right:470px;
+margin-top: 50px;
+margin-left :500px;
+padding-left : 20px;
+padding-right :-80px;
+padding-top: 20px;}
+.PT {
+    display: flex;
+    gap : 75px;
+}
+.img {
+    border-radius: 10px;;
+}
+.creator {display:flex;
+gap: 20px;
+padding-bottom: 10px;
+}
+.pic{border:solid white;
+border-radius: 100%;}
+.profile{margin-top: 5px;}
+.link{color: white;
+text-decoration : none;}
+.eth{color : hsl(178, 100%, 50%);
+    margin-top:-1px;
+    margin-left:-65px;
+}
+.daysleft{margin-top:-1.7px;
+    margin-left:-65px;
+
+}
+h2{color:white;}
+p{color :hsl(215, 51%, 70%)}
+.line{
+    border :0.01px solid hsl(215, 51%, 70%) ;
+
+padding-right:10;}
